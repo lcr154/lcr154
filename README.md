@@ -31,4 +31,9 @@ Chrome extension (MV3) + Python companion app. Detects videos on any website usi
 - Background in sales management and team training
 - Looking for remote AI/automation roles
 
-Let's connect: alfred.rey@icloud.com
+Let's connect:
+- Email: alfred.rey@icloud.com
+- Twitter/X: [@evg_samokhvalov](https://x.com/evg_samokhvalov)
+- Telegram: [@lcr154](https://t.me/lcr154)
+- LinkedIn: [evgeniisamokhvalov](https://www.linkedin.com/in/evgeniisamokhvalov)
+- Portfolio: [lcr154.github.io](https://lcr154.github.io)
