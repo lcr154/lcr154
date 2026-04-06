@@ -6,8 +6,13 @@ I build products using AI tools — Claude Code, ChatGPT, Gemini, n8n, OpenClaw.
 
 ## What I build
 
+### [ZenMind Bot](https://github.com/lcr154/zenmind-bot) — NEW
+AI-powered Telegram meditation assistant. Generates personalized sessions based on mood, goals, and experience level. Dual payment: Telegram Stars + USDT TRC20 crypto. Mood tracking, daily reminders, admin panel.
+
+`Python` `aiogram` `OpenRouter API` `Telegram Stars` `Tron API` `SQLite`
+
 ### [SaveNet VPN Bot](https://github.com/lcr154/savenet-vpn-bot)
-Telegram SaaS bot for VPN subscriptions. Automated crypto payments (USDT TRC20), VPN key provisioning via 3X-UI API, referral system, admin panel, auto-expiry scheduler. Zero manual intervention — fully autonomous.
+Telegram SaaS bot for VPN subscriptions. Automated crypto payments (USDT TRC20), VPN key provisioning via 3X-UI API, referral program, promo codes, admin panel, auto-expiry scheduler. Zero manual intervention.
 
 `Python` `aiogram` `Tron API` `3X-UI API` `SQLite` `APScheduler`
 
@@ -18,7 +23,7 @@ Chrome extension (MV3) + Python companion app. Detects videos on any website usi
 
 ## Tools I work with
 
-`Claude Code` `ChatGPT` `Gemini` `Perplexity` `n8n` `OpenClaw` `Python` `JavaScript`
+`Claude Code` `ChatGPT` `Gemini` `Perplexity` `n8n` `OpenClaw` `OpenRouter` `Python` `JavaScript`
 
 ## About
 
